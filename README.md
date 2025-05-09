@@ -68,8 +68,6 @@ LoFi-Backend/
 - `PUT /tracks/:id` - Update a track by ID
 - `DELETE /tracks/:id` - Delete a track by ID
 
-> *(Note: Replace `/tracks` with the actual route if different.)*
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
